@@ -25,6 +25,7 @@ Featured Projects
 --------------------
 
 -   🔭 **[apigee-otel-logger](https://www.google.com/search?q=https://github.com/open-gw/apigee-otel-logger)** *(In Active Development)*: A high-performance, asynchronous Java Callout to natively export OpenTelemetry (OTLP) logs directly from Apigee Message Processors.
+-   🔭 **[GatewayDB-mcp](https://www.google.com/search?q=https://github.com/open-gw/gateway-db-mcp)** *(In Active Development)*: A plugin that securely and efficiently expose relational databases (MySQL, PostgreSQL, SQL Server, etc.) as MCP tools for AI agents
 
 Get Involved
 ---------------
